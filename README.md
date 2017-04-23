@@ -116,10 +116,10 @@
 
 ## Credits
 
-  - [Conis Yi](http://github.com/conis)
+  - [wvv8oo](http://github.com/wvv8oo/)
 
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2012-2013 Conis Yi <[http://iove.net/](http://iove.net/)>
+Copyright (c) 2012-2013 wvv8oo <[http://github.com/wvv8oo/](http://github.com/wvv8oo/)>
